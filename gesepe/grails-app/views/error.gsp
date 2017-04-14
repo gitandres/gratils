@@ -5,6 +5,7 @@
         <meta name="layout" content="main">
         <g:if env="development"><asset:stylesheet src="errors.css"/></g:if>
     </head>
+  
     <body>
         <g:if env="development">
             <g:if test="${Throwable.isInstance(exception)}">
