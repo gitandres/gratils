@@ -23,7 +23,7 @@
 				</button>
 				<a class="navbar-brand" href="/#"> <i class="fa grails-icon">
 						<asset:image src="grails-cupsonly-logo-white.svg" />
-				</i> Grails
+				</i> Incidencias
 				</a>
 			</div>
 			<div class="navbar-collapse collapse" aria-expanded="false"
